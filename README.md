@@ -1,32 +1,32 @@
-<h1 align="center">Hi 👋, I'm Abdul Rahman</h1>
-<h3 align="center">Frontend Developer (React JS/React Native Developer)</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
+<h3 align="center">Mobile Application Engineer (Java /Kotlin/ Flutter)</h3>
 <hr /> 
 <p>
-- 🔭 I’m currently working on Shopify Embedded Apps<br/>
-- 🌱 I’m currently learning Ruby and node<br/>
-- 👯 I’m looking to collaborate on Mobile and Web Apps
+- 🔭 I’m currently working on Storage Applications<br/>
+- 🌱 I’m currently learning KMP<br/>
+- 👯 I’m looking to collaborate on Mobile Apps
 </p>
 <hr />
 <p align="left"> </p>
 <div align="center"> <img
-    src="https://github-readme-stats.vercel.app/api?username=abdul-rahman-wasim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=muhammad-hamza-shahid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
     height="150" alt="stats graph"/> <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-rahman-wasim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-hamza-shahid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
     height="150" alt="languages graph"  /> </div>
 <div width="50">
   <p></p>
 </div>
 <div align="center"> <img
-    src="https://streak-stats.demolab.com?user=abdul-rahman-wasim&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
+    src="https://streak-stats.demolab.com?user=muhammad-hamza-shahid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
     height="220" alt="streak graph"  /> </div>
 <p></p>
-<div align="center"> <a href="mailto:abdul.rahman.ar643@gmail.com" target="_blank">  <img
+<div align="center"> <a href="mailto:mr.hamza.shahid@gmail.com" target="_blank">  <img
       src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
       height="35" alt="gmail logo"  /> </a> <a href="www.linkedin.com/in/abdul-rahman-05a7a3130" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
       height="35" alt="linkedin logo"  /> </a> <a
-    href="https://wa.me/92185053545?text=Hello%2C%20AbdulRahman%20How%20are%20you" target="_blank">  <img
+    href="https://wa.me/923438559089?text=Hello%2C%20AbdulRahman%20How%20are%20you" target="_blank">  <img
       src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge"
       height="35" alt="whatsapp logo"  /> </a> </div> <br clear="both">
 <div align="left">
