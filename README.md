@@ -22,11 +22,11 @@
 <p></p>
 <div align="center"> <a href="mailto:mr.hamza.shahid@gmail.com" target="_blank">  <img
       src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
-      height="35" alt="gmail logo"  /> </a> <a href="www.linkedin.com/in/abdul-rahman-05a7a3130" target="_blank">
+      height="35" alt="gmail logo"  /> </a> <a href="https://www.linkedin.com/in/mr-muhammad-hamza-shahid/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
       height="35" alt="linkedin logo"  /> </a> <a
-    href="https://wa.me/923438559089?text=Hello%2C%20AbdulRahman%20How%20are%20you" target="_blank">  <img
+    href="https://wa.me/923438559089?text=Hello%2C%20Hamza%20How%20are%20you" target="_blank">  <img
       src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge"
       height="35" alt="whatsapp logo"  /> </a> </div> <br clear="both">
 <div align="left">
