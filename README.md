@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/muhammad-hamza-shahid/muhammad-hamza-shahid/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/muhammad-hamza-shahid/muhammad-hamza-shahid/outputs/chakra-ui-logo.svg" alt="Snake animation" />
 
 ###
